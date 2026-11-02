@@ -1,6 +1,6 @@
 # 👋 Hey, I'm GUZZBR1
 
-### Founder of Draw · Product Builder
+### Founder of [Draw](https://github.com/GUZZBR1/draw) · Product Builder
 
 I build software products with applied AI, machine learning, and reinforcement learning. I enjoy taking ideas from concept to working systems and applying technology to real-world problems.
 
